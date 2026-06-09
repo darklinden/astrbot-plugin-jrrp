@@ -1,0 +1,6 @@
+name: jrrp
+author: darklinden
+desc: 今日人品。每天为你计算一个确定性的人品值 (0-100)。
+version: 1.0.0
+display_name: 今日人品
+short_desc: 每日人品值查询
